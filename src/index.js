@@ -1,3 +1,6 @@
+const gitHub = "microsoft";
+// Build the GitHub profile URL from the gitHub username.
+
 /**
  * Entry point of application, where App is rendered within the div with the id of "app" 
  */
